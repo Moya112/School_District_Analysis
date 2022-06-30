@@ -39,13 +39,16 @@ When the ninth graders' of Thomas High School had their scores omitted from the 
 ## Effects of the School Budget and School Size
 
 The  Average Scores and Passing Percentages do not increase as spending per student increases. For example, Cabera High School, the top-performing school in the entire school district, received $68 less per student than Johnson High School, the lowest-performing school, implying that more relevant factors than funding decide average student scores.
+
 <img width="842" alt="school_budget_per_student_df" src="https://user-images.githubusercontent.com/105765150/176585776-88657685-0820-42df-a4be-0cd25575a7c7.png">
 
 Considering the size of a school, larger schools with over 2,000 students have the lowest average scores and passing percentages. However, the difference in performance between small and medium-size schools is imperceptible at approximately 1%. Fort this dataset, the district schools Large, which suggested that students in this district learn and perform better in smaller, more intimate settings.
+
 <img width="767" alt="school_size_df" src="https://user-images.githubusercontent.com/105765150/176586362-9d2da473-65c1-4aa2-be6e-f5bfdf24cedd.png">
 
 ## Charter Schools vs. District Schools
 The analysis suggested that charter schools performed better than district schools. The top five schools with the highest overall passing percentages are Charter schools, whereas the bottom five are all District Schools. Charter schools have a 36% higher overall passing rate than district schools. 
+
 .<img width="719" alt="school_type_df" src="https://user-images.githubusercontent.com/105765150/176586657-b38f09b8-43c1-4110-875c-9a7d9ab5e514.png">
 
 ## Summary
